@@ -6,4 +6,3 @@ export default function getHealthStatus(character) {
   }
   return 'critical';
 }
-
